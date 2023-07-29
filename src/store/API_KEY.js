@@ -1,1 +1,1 @@
-export const API_URL = "https://brandinggame.azurewebsites.net/";
+export const API_URL = "https://http://brandinggame-001-site1.ctempurl.com/";
