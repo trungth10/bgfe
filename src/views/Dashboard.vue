@@ -74,6 +74,7 @@ export default {
   created() {
     let user = this.$session.get("user-info");
     let brandId = user.brandId;
+    console.log(brandId);
     this.$store.commit("dashboard/setBrandId", brandId);
     this.countPromotion();
   },

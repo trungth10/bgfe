@@ -45,6 +45,7 @@ export default {
     fullName() {
       let session = this.$session;
       let user = session.get("user-info");
+      console.log(user);
       return user.fullName;
     },
   },
