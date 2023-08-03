@@ -16,7 +16,7 @@ export const voucher = {
     assignPromoId: "",
     SearchContent: "",
     voucherType: "",
-    brandId: "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    brandId: "",
     voucherGroup: {},
     voucherForm: {},
     promotionId: "",

@@ -72,7 +72,7 @@ export const ENV = {
   },
   ROLE: {
     ADMIN: "Admin",
-    Brand: "Brand Manager",
+    Brand: "Brand",
   },
   NEXT_OPERATOR: {
     OR: 1,
